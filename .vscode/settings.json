@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["daftlistings", "xgboost"],
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}
